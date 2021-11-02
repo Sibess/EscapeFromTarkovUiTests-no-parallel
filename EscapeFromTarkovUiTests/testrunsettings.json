@@ -1,0 +1,7 @@
+{
+  "Settings": {
+    "BrowserName": "Chrome",
+    "StartUrl": "https://www.escapefromtarkov.com/",
+    "TimeoutSeconds": 20000
+  }
+}
